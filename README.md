@@ -1,4 +1,4 @@
-# DeathbetraysJenkinsBuildWatcher
+# Deathbetray's Jenkins Build Watcher
 Simple background application to monitor the build status of build channels you care about on Jenkins.
 
 # Getting Started
